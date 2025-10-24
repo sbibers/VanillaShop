@@ -48,10 +48,10 @@
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
 }
 
-.vanillashop-mobile-logo
+/* .vanillashop-mobile-logo
 {
   display: none;
-}
+} */
 
 @media (max-width: 575px)
 {
