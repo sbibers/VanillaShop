@@ -75,7 +75,7 @@
 ```
 VanillaShop/
 ├── 📄 HTML Pages
-│   ├── vanillashop.html         # Product catalog
+│   ├── index.html         # Product catalog
 │   ├── checkout.html            # Shopping cart & checkout
 │   └── orders.html              # Order history
 ├── 📂 Data Layer
@@ -108,7 +108,7 @@ VanillaShop/
 
 1. **Clone or download** the project files
 2. **Open in VS Code** and install "Live Server" extension
-3. **Right-click** on `vanillashop.html` → "Open with Live Server"
+3. **Right-click** on `index.html` → "Open with Live Server"
 4. **Navigate** to `http://localhost:5500`
 
 ### Alternative Setup
