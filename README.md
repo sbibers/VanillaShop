@@ -21,15 +21,17 @@
 
 ## 🌐 Live Demo
 
-Experience VanillaShop instantly without any setup or installation:
+Experience **VanillaShop** instantly — no setup, no installation, just pure shopping fun!  
 
 <div align="center">
 
-### Experience VanillaShop in Action
+### 🚀 Try VanillaShop Now
 
-No installation required • No setup needed • Just click and explore
+✨ **Instant Access** – No installation required  
+🖱️ **One Click** – Start exploring immediately  
+🎨 **Beautiful UI** – Enjoy a smooth shopping experience  
 
-**🚀 [Launch Live Demo →](https://sbibers.github.io/VanillaShop/)**
+[**🔗 Launch Live Demo**](https://sbibers.github.io/VanillaShop/)  
 
 </div>
 
