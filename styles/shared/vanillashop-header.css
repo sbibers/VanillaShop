@@ -48,16 +48,9 @@
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
 }
 
-/* .vanillashop-mobile-logo
-{
-  display: none;
-} */
-
 .vanillashop-mobile-logo
 {
-  display: block;
-  height: 35px;
-  margin-top: 5px;
+  display: none;
 }
 
 @media (max-width: 575px)
