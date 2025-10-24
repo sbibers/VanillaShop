@@ -16,7 +16,30 @@
 
 </div>
 
+
 ---
+
+## 🌐 Live Demo
+
+Experience VanillaShop instantly without any setup or installation:
+
+<div align="center">
+
+### Experience VanillaShop in Action
+
+No installation required • No setup needed • Just click and explore
+
+**👉 [Launch Live Demo](https://sbibers.github.io/VanillaShop/)**
+
+
+**🚀 [Launch Live Demo →](https://sbibers.github.io/VanillaShop/)**
+
+*Browse products, build your cart, and complete orders — fully functional e-commerce experience*
+
+</div>
+
+---
+
 
 ## 📸 Screenshots
 
